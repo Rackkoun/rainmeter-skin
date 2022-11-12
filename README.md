@@ -1,18 +1,41 @@
 # Rainmeter Skin: rainru
 
-Desktop monitoring system using rainmeter and MSIAfterburner
+Desktop monitoring system using Rainmeter and MSIAfterburner
 
-### Requirements
- * Download and install  [MSIAfterburner](https://www.msi.com/Landing/afterburner/graphics-cards).
+<br>
 
- * Set up MSIAfterburner to start with your OS and run in background.
-
- * Download and install [Rainmeter](https://www.rainmeter.net/)
  
- * Clone the project and copy the folder **Rainmeter** to your Document's folder i.e: *C:Users/{yourUserName}/Documents*
+## 1.1. __*rainru*__ showcase
 
- * If Rainmeter is not running then launch it and load each widget.
+<br>
+
+<table>
+    <tr>
+        <th>Test PC 1</th>
+        <th>Test PC 2</th>
+    </tr>
+    <tr>
+        <td>
+            <img src="imgs/screenshot.png">
+        </td>
+        <td>
+            <img src="imgs/other-pc-01-widget-with-plugin.jpg">
+        </td>
+    </tr>
+</table>
+
+<br>
+
+## 1.2. Requirements
+ * A Windows PC
+ * Rainmeter software
+
+ * MSIAfterburner software + MSIAfterburner.dll plugin
+
+ * and the __*rainru*__ skin.
 
  <br/>
- 
-<img src="imgs/screenshot.png">
+
+## 1.3. Installation
+
+Installation steps are further explained in my [Wiki](../../../rainmeter-skin/wiki)
