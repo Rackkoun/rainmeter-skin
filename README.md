@@ -38,4 +38,6 @@ Desktop monitoring system using Rainmeter and MSIAfterburner
 
 ## 1.3. Installation
 
-Installation steps are further explained in my [Wiki](../../../rainmeter-skin/wiki)
+Installation steps are further explained in my [Wiki](../../../rainmeter-skin/wiki).
+
+For french speakers, please visite [this link](../../../rainmeter-skin/wiki/Installation-Fr).
